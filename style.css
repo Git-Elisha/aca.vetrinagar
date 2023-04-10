@@ -4,6 +4,8 @@
 
 body {
     background: #fff;
+    max-width: 100vw;
+    width: 100vw;
 }
 
 .section-padding {
@@ -237,6 +239,8 @@ ul {
         width: 100%;
     }
 }
+
+/* slide top moving bottom */
 
 .carousel-item .carousel-caption {
    
